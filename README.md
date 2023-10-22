@@ -1,2 +1,2 @@
 # text-analysis
-basic text processing template for tdidf
+basic text processing template for tfidf
